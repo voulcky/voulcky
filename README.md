@@ -8,7 +8,7 @@
 - 
 - 💞️ I’m looking to collaborate on blockchain projects and/or B2B SaaS projects.
 - 
-- 📫 How to reach me ...
+- 📫 You can reach me on e-mail: ckdobrowolski@gmail.com
 
 <!---
 voulcky/voulcky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

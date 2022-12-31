@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @voulcky
-
-  I've been involved in many projects as a marketer. Throughout the life I found out that I don't necessarily like marketing, and the career path isn't under my control anymore, thus I decided to change it. I've always been interested in coding and wanted to be able to create my own product myself: the only thing that's lacking is technical skills.
-
-- 👀 I’m interested in projects, that actualy has an impact and help people live easier.
-- 
-- 🌱 I’m currently learning my way into tech side of product creations. 
-- 
-- 💞️ I’m looking to collaborate on blockchain projects and/or B2B SaaS projects.
-- 
-- 📫 You can reach me on e-mail: ckdobrowolski@gmail.com
+- 👋 As a passionate software developer and marketer from Poland, my goal is to continuously expand my skills and knowledge in the field. With experience in front-end development, sys admin, and a strong interest in machine learning and security, I am always looking for new challenges and opportunities to grow as a developer. In addition to my technical skills, I also have a strong background in marketing and design, with expertise in UI/UX and 3D. I am driven by a desire to contribute to the growing web3 and machine learning/AI markets, and am excited to connect with like-minded individuals and contribute to innovative projects that push the boundaries of technology.
 
 <!---
 voulcky/voulcky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

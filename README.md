@@ -1,4 +1,4 @@
-- you probably know who I am, if not, you will
+you probably know who I am, if not, you will
 <!---
 voulcky/voulcky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
